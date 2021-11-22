@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atif-zia
 - 👀 I’m interested in VueJs, NuxtJs
 - 🌱 I’m currently learning VueJs, NuxtJs
-- 💞️ I’m looking to collaborate on VueJsProjects
+- 💞️ I’m looking to collaborate on VueJs/NuxtJs Projects
 - 📫 How to reach me azia@vemessage.com
 
 <!---
